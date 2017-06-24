@@ -6,7 +6,7 @@
 // @author       wisamasd 
 // @include      https://www.duolingo.com/*
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js
-// @updateURL		 none
-// @downloadURL	 none
+// @updateURL    https://raw.githubusercontent.com/wisamasd/duolingo/master/DuoKeySwitcher.meta.js
+// @downloadURL  https://raw.githubusercontent.com/wisamasd/duolingo/master/DuoKeySwitcher.user.js
 // @grant        none
 // ==/UserScript==
